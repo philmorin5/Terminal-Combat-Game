@@ -1,0 +1,4 @@
+﻿  main.cpp
+\\etudiants.cegeptr.qc.ca\etudiants\1723375\mes documents\visual studio 2015\projects\2s\tp\projet fin\projet fin\main.cpp(15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Projet Fin.vcxproj -> \\etudiants.cegeptr.qc.ca\etudiants\1723375\Mes documents\Visual Studio 2015\Projects\2s\TP\Projet Fin\Debug\Projet Fin.exe
+  Projet Fin.vcxproj -> \\etudiants.cegeptr.qc.ca\etudiants\1723375\Mes documents\Visual Studio 2015\Projects\2s\TP\Projet Fin\Debug\Projet Fin.pdb (Partial PDB)
