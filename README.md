@@ -1,2 +1,3 @@
 # jeux-de-combat-console
-Projet PPO
+Projet POO
+
