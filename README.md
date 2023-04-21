@@ -1,3 +1,4 @@
-# jeux-de-combat-console
-Projet POO
+# Terminal combat game
+
+I made for a school project
 
