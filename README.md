@@ -1,4 +1,4 @@
 # Terminal combat game
 
-I made for a school project
+I made this game for a school project
 
